@@ -1,7 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:todo_app/pages/home.dart';
 
-void main() {
+void main() async {
+//init the hive
+await Hive.initFlutter();
+
+//open a box
+var box = await Hive.openBox('todo');
+
   runApp(const MyApp());
 }
 
@@ -15,7 +22,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: HomePage(),
       theme: ThemeData(
-        // primarySwatch: Colors.blue,
         fontFamily: 'Poppins'
        ),
        
