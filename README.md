@@ -16,8 +16,9 @@ A simple todo application.
 
 [Hive](https://docs.hivedb.dev/) is a lightweight and fast NoSQL database for Flutter and Dart. It is designed to work seamlessly with Flutter applications, providing efficient data storage and retrieval.
 
-![home](https://github.com/Thareendra2000/flutter_todo_app/assets/97722096/673699fe-9368-4e83-8a61-aeb059369fb5)
-![create new task](https://github.com/Thareendra2000/flutter_todo_app/assets/97722096/d56ecd9d-92ac-4369-9469-d1678c167223)
+<img src="https://github.com/Thareendra2000/flutter_todo_app/assets/97722096/673699fe-9368-4e83-8a61-aeb059369fb5" alt="Home" width="200"/>
+<img src="https://github.com/Thareendra2000/flutter_todo_app/assets/97722096/d56ecd9d-92ac-4369-9469-d1678c167223" alt="Create New Task" width="200"/>
+
 
 
 
