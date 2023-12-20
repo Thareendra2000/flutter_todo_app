@@ -1,16 +1,23 @@
 # todo_app
 
-A new Flutter project.
+A simple todo application.
 
-## Getting Started
+## Technologies used
 
-This project is a starting point for a Flutter application.
+### Flutter
 
-A few resources to get you started if this is your first Flutter project:
+[Flutter](https://flutter.dev/) is an open-source UI software development toolkit created by Google. It is used to build natively compiled applications for mobile, web, and desktop from a single codebase.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Dart](https://dart.dev/) is the programming language used by Flutter. It is a client-optimized language for fast apps on multiple platforms.
+
+### Hive Database
+
+[Hive](https://docs.hivedb.dev/) is a lightweight and fast NoSQL database for Flutter and Dart. It is designed to work seamlessly with Flutter applications, providing efficient data storage and retrieval.
+
+![home](https://github.com/Thareendra2000/flutter_todo_app/assets/97722096/673699fe-9368-4e83-8a61-aeb059369fb5)
+![create new task](https://github.com/Thareendra2000/flutter_todo_app/assets/97722096/d56ecd9d-92ac-4369-9469-d1678c167223)
+
+
+
