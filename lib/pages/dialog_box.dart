@@ -21,6 +21,7 @@ class _DialogBoxState extends State<DialogBox> {
           newTaskName = value;
         },
       ),
+      surfaceTintColor: Colors.white,
       actions: [
         TextButton(
           style: TextButton.styleFrom(
